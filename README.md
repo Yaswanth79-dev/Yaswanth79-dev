@@ -181,3 +181,11 @@ Sri Chaitanya Junior Kalasala &nbsp;|&nbsp; **CGPA: 9.27 / 10**
 *Always happy to talk tech, projects, and learning.*
 
 </div>
+
+## 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yaswanth79-dev/Yaswanth79-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yaswanth79-dev/Yaswanth79-dev/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Yaswanth79-dev/Yaswanth79-dev/output/github-snake.svg">
+</picture>
